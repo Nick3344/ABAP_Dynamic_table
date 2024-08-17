@@ -142,5 +142,4 @@ DATA(init)  = dyntab->is_initial( ). " Return true if internal table is initial
 IDOC data segments explorer
 ![](docs/idoc_dyn.gif)
 
-## Installation
-Install this project using [abapGit](https://abapgit.org/) ![abapGit](https://docs.abapgit.org/img/favicon.png)
+
