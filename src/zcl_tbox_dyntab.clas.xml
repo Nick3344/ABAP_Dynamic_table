@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_TBOX_DYNTAB</CLSNAME>
+    <CLSNAME>ABAP_Dynamic_table</CLSNAME>
     <LANGU>E</LANGU>
     <DESCRIPT>Dynamic Table</DESCRIPT>
     <STATE>1</STATE>
